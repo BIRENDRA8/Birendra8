@@ -1,29 +1,33 @@
-[![MasterHead](https://www.animatedimages.org/data/media/523/animated-hello-image-0044.gif)]()
-
-<h1 align="center">👋 Hi, I'm <span style="color:#00bcd4">Birendra Malik</span></h1>
-<h3 align="center">A Passionate Developer & AI/ML Enthusiast from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=birendra8&label=Profile%20views&color=0e75b6&style=flat" alt="birendra8" /> 
+<!-- Header GIF (Always Running) -->
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0044.gif" />
 </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/birendramalik11" target="blank">
-    <img src="https://img.shields.io/twitter/follow/birendramalik11?logo=twitter&style=for-the-badge" alt="birendramalik11" />
-  </a> 
+<h1 align="center">👋 Hi, I'm <strong>Birendra Malik</strong></h1>
+<h3 align="center">A Passionate Developer & AI/ML Enthusiast from India</h3>
+
+<!-- Coding GIF (Always Running) -->
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=birendra8&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/birendramalik11" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/birendramalik11?logo=twitter&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-## 🔥 About Me — *Birendra Malik*
+## 🔥 About Me — <strong>Birendra Malik</strong>
 
-- 🔭 I’m currently working on **SolveIt – AI-Powered Mango Leaf Disease Detection System**
-- 🌱 Learning and exploring **Deep Learning, CNNs, and Computer Vision**
-- 💻 Passionate about **Machine Learning, Web Development, and Cloud Technologies**
+- 🔭 Currently building **SolveIt – AI-powered mango leaf disease detection**
+- 🌱 Learning **Deep Learning, CNNs, and Computer Vision**
+- 💡 Interested in **AI/ML, Full-Stack Development, and Cloud**
 - 📫 Reach me at **birendramalik8@gmail.com**
-- 🎯 Goal: Becoming a strong **AI/ML Engineer & Full-Stack Developer**
+- 🎯 Goal: Become a strong **AI/ML Engineer & Full-Stack Developer**
 
 ---
 
@@ -47,7 +51,6 @@
 
 ## 🛠️ Languages & Tools  
 <p align="left">
-<!-- Icons remain same -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
@@ -66,11 +69,12 @@
 
 ---
 
-## 📊 GitHub Stats — *Birendra Malik*  
+## 📊 GitHub Stats — <strong>Birendra Malik</strong>  
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=birendra8&show_icons=true&locale=en&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=birendra8&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=birendra8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=birendra8" />
 </p>
