@@ -71,10 +71,10 @@
 
 ## 📊 GitHub Stats — <strong>Birendra Malik</strong>  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=birendra8&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=birendra8" />
-</p>
+</p> -->
